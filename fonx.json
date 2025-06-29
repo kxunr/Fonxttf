@@ -9,14 +9,14 @@
           {
             "id": 101,
             "title": "Pyidaungsu",
-            "image_url": "https://raw.githubusercontent.com/khonsoe/Images/Myanmar/MyanmarJasmine.png",
+            "image_url": "https://github.com/khonsoe/uFontTTF/blob/master/Images/Myanmar/ChocoCooky.png",
             "ttf_url": "https://raw.githubusercontent.com/khonsoe/uFontTTF/main/Fonts/Myanamr/ZawgyiOne.ttf",
             "file_size_kb": 256
           },
           {
             "id": 102,
             "title": "Zawgyi One",
-            "image_url": "https://raw.githubusercontent.com/khonsoe/Images/Myanmar/MyanmarJasmine.png",
+            "image_url": "https://github.com/khonsoe/uFontTTF/blob/master/Images/Myanmar/ChocoCooky.png",
             "ttf_url": "https://raw.githubusercontent.com/khonsoe/uFontTTF/main/Fonts/Myanamr/ZawgyiOne.ttf",
             "file_size_kb": 312
           }
