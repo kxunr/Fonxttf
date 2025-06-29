@@ -1,0 +1,76 @@
+{
+  "font_store": {
+    "version": 1.1,
+    "categories": [
+      {
+        "category_id": "myanmar",
+        "category_name": "Myanmar",
+        "fonts": [
+          {
+            "id": 101,
+            "title": "Pyidaungsu",
+            "image_url": "https://github.com/khonsoe/uFontTTF/raw/master/Images/Myanmar/Pyidaungsu.png",
+            "ttf_url": "https://github.com/khonsoe/uFontTTF/raw/master/Fonts/Myanamr/Pyidaungsu.ttf?raw=true",
+            "file_size_kb": 256
+          },
+          {
+            "id": 102,
+            "title": "Zawgyi One",
+            "image_url": "https://github.com/khonsoe/uFontTTF/raw/master/Images/Myanmar/Pyidaungsu.png",
+            "ttf_url": "https://github.com/khonsoe/uFontTTF/raw/master/Fonts/Myanamr/Pyidaungsu.ttf?raw=true",
+            "file_size_kb": 312
+          },
+          {
+            "id": 103,
+            "title": "Myanmar Unicode",
+            "image_url": "https://github.com/khonsoe/uFontTTF/raw/master/Images/Myanmar/Pyidaungsu.png",
+            "ttf_url": "https://github.com/khonsoe/uFontTTF/raw/master/Fonts/Myanamr/Pyidaungsu.ttf?raw=true",
+            "file_size_kb": 450
+          }
+        ]
+      },
+      {
+        "category_id": "thai",
+        "category_name": "Thai",
+        "fonts": [
+          {
+            "id": 201,
+            "title": "Sarabun",
+            "image_url": "https://github.com/khonsoe/uFontTTF/raw/master/Images/Thai/iOS_SFUIDisplayTH.png",
+            "ttf_url": "https://github.com/khonsoe/uFontTTF/raw/master/Fonts/Thai/iOS_SFUIDisplayTH.ttf?raw=true",
+            "file_size_kb": 180
+          },
+          {
+            "id": 202,
+            "title": "Kanit",
+            "image_url": "https://github.com/khonsoe/uFontTTF/raw/master/Images/Thai/iOS_SFUIDisplayTH.png",
+            "ttf_url": "https://github.com/khonsoe/uFontTTF/raw/master/Fonts/Thai/iOS_SFUIDisplayTH.ttf?raw=true",
+            "file_size_kb": 220
+          }
+        ]
+      },
+      {
+        "category_id": "pao",
+        "category_name": "Pa'O",
+        "fonts": [
+          {
+            "id": 301,
+            "title": "PaOh Unicode",
+            "title": "Myanmar Unicode",
+            "image_url": "https://github.com/khonsoe/uFontTTF/raw/master/Images/Myanmar/Pyidaungsu.png",
+            "ttf_url": "https://github.com/khonsoe/uFontTTF/raw/master/Fonts/Myanamr/Pyidaungsu.ttf?raw=true",
+            "file_size_kb": 195
+          },
+          {
+            "id": 302,
+            "title": "Khun Than Lwin",
+            "title": "Myanmar Unicode",
+            "image_url": "https://github.com/khonsoe/uFontTTF/raw/master/Images/Myanmar/Pyidaungsu.png",
+            "ttf_url": "https://github.com/khonsoe/uFontTTF/raw/master/Fonts/Myanamr/Pyidaungsu.ttf?raw=true",
+            "file_size_kb": 210
+          }
+        ]
+      }
+    ]
+  }
+}
