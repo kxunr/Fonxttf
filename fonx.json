@@ -9,21 +9,21 @@
           {
             "id": 101,
             "title": "Pyidaungsu",
-            "image_url": "https://raw.githubusercontent.com/khonsoe/uFontTTF/main/Images/Myanmar/Pyidaungsu.png",
+            "image_url": "https://github.com/khonsoe/uFontTTF/raw/master/Images/Myanmar/MyanmarJasmine.png",
             "ttf_url": "https://raw.githubusercontent.com/khonsoe/uFontTTF/main/Fonts/Myanamr/Pyidaungsu.ttf",
             "file_size_kb": 256
           },
           {
             "id": 102,
             "title": "Zawgyi One",
-            "image_url": "https://raw.githubusercontent.com/khonsoe/uFontTTF/main/Images/Myanmar/ZawgyiOne.png",
+            "image_url": "https://github.com/khonsoe/uFontTTF/raw/master/Images/Myanmar/MyanmarJasmine.png",
             "ttf_url": "https://raw.githubusercontent.com/khonsoe/uFontTTF/main/Fonts/Myanamr/ZawgyiOne.ttf",
             "file_size_kb": 312
           },
           {
             "id": 103,
             "title": "Myanmar Unicode",
-            "image_url": "https://raw.githubusercontent.com/khonsoe/uFontTTF/main/Images/Myanmar/MyanmarUnicode.png",
+            "image_url": "https://github.com/khonsoe/uFontTTF/raw/master/Images/Myanmar/MyanmarJasmine.png",
             "ttf_url": "https://raw.githubusercontent.com/khonsoe/uFontTTF/main/Fonts/Myanamr/Myanmar3.ttf",
             "file_size_kb": 450
           }
@@ -36,7 +36,7 @@
           {
             "id": 201,
             "title": "Sarabun",
-            "image_url": "https://raw.githubusercontent.com/khonsoe/uFontTTF/main/Images/Thai/Sarabun.png",
+            "image_url": "https://github.com/khonsoe/uFontTTF/raw/master/Images/Myanmar/MyanmarJasmine.png",
             "ttf_url": "https://raw.githubusercontent.com/khonsoe/uFontTTF/main/Fonts/Thai/Sarabun-Regular.ttf",
             "file_size_kb": 180
           },
